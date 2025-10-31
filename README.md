@@ -283,10 +283,21 @@ This is a template repository. Customize it for your specific evaluation needs:
 2. Create evaluation templates for common patterns
 3. Extend geographic sourcing for your region
 4. Integrate additional MCP servers
+ 
 
-## License
+## AI / Human Credit
 
-[Specify your license]
+This repository represents a collaborative effort between human and AI:
+
+**Daniel (Human):**
+- Wrote the subagent configurations
+- Created the scaffold and directory structure
+- Designed the slash commands for the system
+
+**Claude (AI):**
+- Fixed typos and improved clarity
+- Optimised the manager configurations
+- Wrote this README documentation
 
 ## Credits
 
