@@ -1,5 +1,10 @@
 # Claude Stack Research Template
 
+[![Claude Code](https://img.shields.io/badge/Claude-Code-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.com/claude-code)
+
+[![Claude Code Projects](https://img.shields.io/badge/Claude%20Code-Projects%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![Master Index](https://img.shields.io/badge/GitHub-Master%20Index-black?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 A comprehensive multi-agent system for conducting software and hardware technology evaluations using Claude Code.
 
 ## Overview
